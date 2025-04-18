@@ -2,3 +2,32 @@ baseURL: https://example.org/
 languageCode: en-us
 title: MozkaBlog
 theme: ["typo"]
+
+params:
+  # Appearance settings
+  colorPalette: "default"
+  hideHeader: false
+
+  homeIntroTitle: "Welcome to MozkaBlog"
+  homeIntroContent: |
+    DevOps, Kubernetes and Cloud Native.
+
+    Here we'll talk about Kubernetes, Golang, Linux and AWS.
+
+  social:
+    - name: "github"
+      url: "https://github.com/mozkagit"
+    - name: "linkedin"
+      url: "https://linkedin/in/modi"
+  
+  menu:
+    - name: "about"
+      url: "/about"
+    - name: "blog"
+      url: "/blog"
+    - name: "projects"
+      url: "/projects"
+    - name: "learning"
+      url: "/learning"
+    - name: "notes"
+      url: "/notes"
