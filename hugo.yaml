@@ -18,7 +18,7 @@ params:
     - name: "github"
       url: "https://github.com/mozkagit"
     - name: "linkedin"
-      url: "https://linkedin/in/modi"
+      url: "https://linkedin.com/in/modi"
 
   menu:
     - name: "about"
