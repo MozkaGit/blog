@@ -1,6 +1,6 @@
 baseURL: https://mozka.dev/
 languageCode: en-us
-title: MozkaBlog
+title: MozkaLabs
 theme: ["typo"]
 
 params:
@@ -8,11 +8,13 @@ params:
   colorPalette: "default"
   hideHeader: false
 
-  homeIntroTitle: "Welcome to MozkaBlog"
+  homeIntroTitle: "Welcome to MozkaLabs"
   homeIntroContent: |
-    DevOps, Kubernetes and Cloud Native.
+    Welcome to my website.
 
-    Here we'll talk about Kubernetes, Golang, Linux and AWS.
+    I'm a French Cloud Engineer sharing insights and experiences about Cloud Native technologies, DevOps, Software Engineering and infrastructure. You'll also find content about productivity and career development.
+
+    My go-to stack includes Kubernetes, AWS, Python, and of course, Neovim as my editor of choice.
 
   social:
     - name: "github"
