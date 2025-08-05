@@ -10,8 +10,6 @@ params:
 
   homeIntroTitle: "Welcome to MozkaLabs"
   homeIntroContent: |
-    Welcome to my website.
-
     I'm a French Cloud Engineer sharing insights and experiences about Cloud Native technologies, DevOps, Software Engineering and infrastructure. You'll also find content about productivity and career development.
 
     My go-to stack includes Kubernetes, AWS, Python, and of course, Neovim as my editor of choice.
@@ -23,8 +21,8 @@ params:
       url: "https://linkedin.com/in/modi"
 
   menu:
-    - name: "about"
-      url: "/about"
+    # - name: "about"
+    #   url: "/about"
     - name: "blog"
       url: "/blog"
     - name: "projects"
