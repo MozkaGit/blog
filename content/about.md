@@ -1,6 +1,6 @@
 ---
 title: "About me"
-draft: false
+draft: tru
 ---
 
 ## Who am I ?
