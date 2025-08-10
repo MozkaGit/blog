@@ -21,10 +21,10 @@ params:
       url: "https://linkedin.com/in/modi"
 
   menu:
-    # - name: "about"
-    #   url: "/about"
-    - name: "blog"
-      url: "/blog"
+    - name: "home"
+      url: "/home"
+    - name: "posts"
+      url: "/posts"
     - name: "projects"
       url: "/projects"
     - name: "learning"
