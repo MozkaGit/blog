@@ -23,7 +23,7 @@ params:
 
   menu:
     - name: "home"
-      url: "/home"
+      url: "/"
     - name: "posts"
       url: "/posts"
     - name: "projects"
