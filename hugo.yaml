@@ -6,6 +6,7 @@ theme: ["typo"]
 params:
   # Appearance settings
   colorPalette: "default"
+  showFooter: false
   hideHeader: false
 
   homeIntroTitle: "Welcome to MozkaLabs"
